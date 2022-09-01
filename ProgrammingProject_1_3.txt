@@ -1,0 +1,2 @@
+Add the pseudocode for your algorithm for Programming Project 1.3 in this file.
+(This is NOT a Java program.  It is a plain text file.)
